@@ -1,0 +1,109 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "lat": 36.81897,
+      "lng": 10.16579,
+      "timestamp": "2024-11-03T10:15:00Z",
+      "incidentDescription": "Suspicious individual following a woman"
+    },
+    {
+      "id": 2,
+      "lat": 36.82108,
+      "lng": 10.16535,
+      "timestamp": "2024-11-03T10:16:00Z",
+      "incidentDescription": "Verbal harassment reported"
+    },
+    {
+      "id": 3,
+      "lat": 36.81990,
+      "lng": 10.16045,
+      "timestamp": "2024-11-03T10:17:00Z",
+      "incidentDescription": "Attempted theft from a purse"
+    },
+    {
+      "id": 4,
+      "lat": 36.82250,
+      "lng": 10.16820,
+      "timestamp": "2024-11-03T10:18:00Z",
+      "incidentDescription": "Group of men behaving aggressively"
+    },
+    {
+      "id": 5,
+      "lat": 36.81850,
+      "lng": 10.16200,
+      "timestamp": "2024-11-03T10:19:00Z",
+      "incidentDescription": "Woman being followed from a distance"
+    },
+    {
+      "id": 6,
+      "lat": 36.82000,
+      "lng": 10.16600,
+      "timestamp": "2024-11-03T10:20:00Z",
+      "incidentDescription": "Inappropriate comments made toward a woman"
+    },
+    {
+      "id": 7,
+      "lat": 36.81750,
+      "lng": 10.16400,
+      "timestamp": "2024-11-03T10:21:00Z",
+      "incidentDescription": "Man attempted to grab a woman's bag"
+    },
+    {
+      "id": 8,
+      "lat": 36.82150,
+      "lng": 10.16700,
+      "timestamp": "2024-11-03T10:22:00Z",
+      "incidentDescription": "Unwanted physical contact reported"
+    },
+    {
+      "id": 9,
+      "lat": 36.81900,
+      "lng": 10.17000,
+      "timestamp": "2024-11-03T10:23:00Z",
+      "incidentDescription": "Suspicious group near an ATM"
+    },
+    {
+      "id": 10,
+      "lat": 36.82300,
+      "lng": 10.16900,
+      "timestamp": "2024-11-03T10:24:00Z",
+      "incidentDescription": "Woman reports being followed"
+    },
+    {
+      "id": 11,
+      "lat": 36.81600,
+      "lng": 10.16450,
+      "timestamp": "2024-11-03T10:25:00Z",
+      "incidentDescription": "Attempted mugging near a secluded area"
+    },
+    {
+      "id": 12,
+      "lat": 36.81500,
+      "lng": 10.16250,
+      "timestamp": "2024-11-03T10:26:00Z",
+      "incidentDescription": "Verbal abuse and harassment reported"
+    },
+    {
+      "id": 13,
+      "lat": 36.81400,
+      "lng": 10.16100,
+      "timestamp": "2024-11-03T10:27:00Z",
+      "incidentDescription": "Unwanted attention in public area"
+    },
+    {
+      "id": 14,
+      "lat": 36.82200,
+      "lng": 10.17050,
+      "timestamp": "2024-11-03T10:28:00Z",
+      "incidentDescription": "Aggressive confrontation reported"
+    },
+    {
+      "id": 15,
+      "lat": 36.81700,
+      "lng": 10.16500,
+      "timestamp": "2024-11-03T10:29:00Z",
+      "incidentDescription": "Woman being followed late at night"
+    }
+  ]
+}
